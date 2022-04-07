@@ -10,6 +10,7 @@
 | [snowflake](github.com/godruoyi/go-snowflake)                  | 1512052461246971904                    | 1 Bit Unused + 41 Bit Timestamp + 10 Bit NodeID + 12 Bit Sequence ID               |
 | [ulid](github.com/oklog/ulid)                                  | 01BJMVNPBBZC3E36FJTGVF0C4S	            | 6 bytes of time (milliseconds) + 8 bytes random                                    |
 | [sid](github.com/chilts/sid)                                   | 1JADkqpWxPx-4qaWY47~FqI	               | 8 bytes of time (ns) + 8 random bytes                                              |
+| [shortuuid](https://github.com/lithammer/shortuuid)            | dwRQAc68PhHQh4BUnrNsoS	                | UUIDv4 or v5, encoded in a more compact way                                        |
 | [go.uuid](github.com/satori/go.uuid)                           | 5b52d72c-82b3-4f8e-beb5-437a974842c	   | UUIDv4 from RFC 4112 for comparison                                                |
 | [google.uuid](https://github.com/google/uuid)                  | dd5f48eb-1722-4e5f-9d56-dcaf0aae1026		 | UUIDv4                                                                             |
 | [bomberman.uuid](https://github.com/pborman/uuid)              | 330806cf-684c-43f7-85aa-79939ed3415d		 | UUIDv4                                                                             |
